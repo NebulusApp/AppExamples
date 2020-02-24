@@ -1,0 +1,25 @@
+{
+	"Name": {
+		"en-US": "Hellow World",
+		"ru-RU": "ѕривет мир"
+	},
+	"Description": {
+		"en-US": "This is a simple text demo project.",
+		"ru-RU": "Ёто простой демонстрационный проект"
+	},
+	"Qmls": [
+		{
+			"path": "window.qml"
+		}
+	],
+	"Scripts": [
+		{
+			"path": "path/to/js"
+		}
+	],
+	"Assets": [
+		{
+			"path": "image.jpg"
+		}
+	]
+}
