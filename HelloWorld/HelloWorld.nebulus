@@ -1,23 +1,23 @@
 {
-	"Name": {
+	"name": {
 		"en-US": "Hellow World",
 		"ru-RU": "Привет мир"
 	},
-	"Description": {
+	"description": {
 		"en-US": "This is a simple text demo project.",
 		"ru-RU": "Это простой демо пример"
 	},
-	"Qmls": [
+	"qmls": [
 		{
 			"path": "window.qml"
 		}
 	],
-	"Scripts": [
+	"scripts": [
 		{
 			"path": "path/to/js"
 		}
 	],
-	"Assets": [
+	"assets": [
 		{
 			"path": "image.jpg"
 		}
