@@ -1,11 +1,11 @@
 {
 	"Name": {
 		"en-US": "Hellow World",
-		"ru-RU": "Привет мир"
+		"ru-RU": "РџСЂРёРІРµС‚ РјРёСЂ"
 	},
 	"Description": {
 		"en-US": "This is a simple text demo project.",
-		"ru-RU": "Это простой демонстрационный проект"
+		"ru-RU": "Р­С‚Рѕ РїСЂРѕСЃС‚РѕР№ РґРµРјРѕ РїСЂРёРјРµСЂ"
 	},
 	"Qmls": [
 		{
